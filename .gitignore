@@ -25,3 +25,4 @@ baseline/
 tmp*
 !requirements.txt
 !packages.txt
+venv/
